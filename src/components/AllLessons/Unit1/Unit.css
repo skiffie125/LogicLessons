@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    font-family: Verdana;
+}
+h2{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-family: Verdana;
+}
+h3{
+    text-align: center;
+    font-family: Verdana;
+}
+p{
+    margin: 20px;
+    font-size: 14px;
+    font-family: Verdana;
+}
+ul{
+    font-family: Verdana;
+    font-size:14px;
+    margin: 20px;
+}
+ul li{
+    font-family: Verdana;
+    font-size:14px;
+    margin: 20px;
+}
+
+.btn-group{
+    padding: 10px 24px; /* Some padding */
+    cursor: pointer;
+    display: block; 
+}
+.btn-group button:not(:last-child) {
+    border-bottom: none; /* Prevent double borders */
+}
+.btn-group button:hover {
+    background-color: #c1deec;
+}
+
+button{
+    margin: 10px;
+    font-size: 14px;
+    align-items: center;
+    align-content: center;
+    /* display: block;  */
+}
+img{
+    text-align: center;
+    display: flex;
+    flex-direction:row;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    width: 400px;
+    
+}

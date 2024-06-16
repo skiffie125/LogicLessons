@@ -1,0 +1,9 @@
+html {
+  font-family: sans-serif;
+  background-color: #E7EDEC;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
